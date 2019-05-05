@@ -16,3 +16,6 @@ Prerequisites:
 Steps to Run:
 1. Initialize COBRA Toolbox
 2. Run evalDNAProteinSynthesis.m
+
+### Results
+Results can be found in the Excel document named "results".
